@@ -1,20 +1,20 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
+#  http://fb.com/andri hardiansyah surya n  #
 #######################
 mess = """======================================================
-             Deface Script Creator        
-                        Ubaii ID.
+                       ^holin_cyber^        
+                  Andri hardiansyah surya N.
 ======================================================"""
 
 print mess
 print "Created by Ubaii ID"
-title = raw_input("Judul title: ")
-heading = raw_input("Hacked by: ")
-imagelink = raw_input("link gambar (tengah): ")
+title = raw_input("Judul title:^holin_cyber^ ")
+heading = raw_input("Hacked by:andri hardiansyah surya N ")
+imagelink = raw_input("link gambar (tengah):HOLIN_cyber ")
 bgimage = raw_input("link gambar (background): ")
 message = raw_input("Pesan. gunakan kode <br> untuk text selanjutnya! : ")
-textcolor = raw_input("Warna text (contoh=green): ")
+textcolor = raw_input("Warna text (contoh=green):RED ")
 youtubeid = raw_input("youtube kode (MUSIK): ")
 
 
